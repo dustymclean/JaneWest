@@ -79,4 +79,5 @@ const Collections: React.FC = () => {
   );
 };
 
-export default Collections;
+export default CollectionsPage;
+
